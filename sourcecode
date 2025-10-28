@@ -4,8 +4,8 @@
 #include <AsyncTCP.h>
 
 // Kredensial WiFi
-const char* ssid = "Home";
-const char* password = "bayardulu";
+const char* ssid = "namaWIFI";
+const char* password = "isipassword";
 
 // Pin PZEM untuk ESP32 DevKit V1
 #define PZEM_RX_PIN 16  // GPIO16
